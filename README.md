@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/alankarmehta/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/alankarmehta.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/alankarmehta/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=4&branchName=master)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mambax7_badges&metric=alert_status)](https://sonarcloud.io/dashboard?id=mambax7_badges)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
